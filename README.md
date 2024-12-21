@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dominic, <a href="https://linkedin.com/in/domsbusiness/"></a>☺</h1>
+<h1>Hi, I'm Dominic, <a href="https://linkedin.com/in/domsbusiness/"></a>😄</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/DomSecurity/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/DomSecurity/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/DomSecurity/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+- <b>Networks in Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DomSecurity/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DomSecurity/azure-network-protocols)
 
