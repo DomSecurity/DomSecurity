@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dominic, an <a href="https://linkedin.com/in/domsbusiness/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Dominic, <a href="https://linkedin.com/in/domsbusiness/"></a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
