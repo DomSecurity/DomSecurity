@@ -8,6 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/DomSecurity/ticket-lifecycle)
 - <b>Networks in Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DomSecurity/configure-ad)
+  - [Creating Subscriptions & Resource Groups- Storage Account](https://github.com/DomSecurity/resources-storage-account)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DomSecurity/azure-network-protocols)
 
 ---
