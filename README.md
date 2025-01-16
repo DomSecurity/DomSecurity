@@ -9,7 +9,6 @@
 - <b>Networks in Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DomSecurity/configure-ad)
   - [Managing Accounts and Group Policy: Active Directory](https://github.com/DomSecurity/managing-accounts-ad)
-  - [Creating Subscriptions & Resource Groups- Storage Account](https://github.com/DomSecurity/resources-storage-account)
   - [Network File Shares and Permissions](https://github.com/DomSecurity/Network-file-shares)
   - [Building Intuition for DNS](http://github.com/DomSecurity/Building-Intuition-for-DNS)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DomSecurity/azure-network-protocols)
