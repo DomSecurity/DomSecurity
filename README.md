@@ -6,6 +6,8 @@
   - [osTicket: Prerequisites and Installation](https://github.com/DomSecurity/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/DomSecurity/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/DomSecurity/ticket-lifecycle)
+- <b>Zendesk</b>
+  - [Zendesk: Adding an Agent and Define their Permissions](https://github.com/DomSecurity/agent-permissions)
 - <b>Networks in Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DomSecurity/configure-ad)
   - [Managing Accounts and Group Policy: Active Directory](https://github.com/DomSecurity/managing-accounts-ad)
